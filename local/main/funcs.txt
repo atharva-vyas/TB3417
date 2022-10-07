@@ -1,0 +1,12 @@
+Uniswap V2 - Swap Tokens | DeFi
+swapExactTokensForTokens => {
+    amountIn: the amount of tokens you want to trade in for
+    amountOutMin: the minimum amount of tokens we want out of this trade
+    path: it is a list of token addresses that we want this trade to happen {
+        path[0]: tokenIn
+        path[1]: WETH
+        path[2]: tokenOut
+    }
+    to: the address where we want to send our output tokens to
+    deadline: states the last timestamp that this trade is valid for
+}

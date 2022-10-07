@@ -1,0 +1,7 @@
+1) cd ganache
+2) copy paste the following in the terminal
+npx ganache-cli --fork https://mainnet.infura.io/v3/15de6f2570504efabfc9a6b74ad5ee45 --unlock 0x2FAF487A4414Fe77e2327F0bf4AE2a264a776AD2 --networkId 999
+--network
+
+1) cd js
+2) node test.js

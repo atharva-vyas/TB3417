@@ -1,0 +1,21 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bignumber.js": "^9.0.2",
+    "bn.js": "^5.2.1",
+    "eval": "^0.1.8",
+    "http": "^0.0.1-security",
+    "node-fetch": "^3.2.4",
+    "requestify": "^0.2.5",
+    "web3": "^1.7.0"
+  }
+}
