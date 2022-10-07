@@ -3,7 +3,7 @@ import time
 
 gitName = "TB3417"
 
-branch = "main"
+branch = "master"
 
 origin = "https://github.com/elit30/" + str(gitName) +".git"
 
