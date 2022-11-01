@@ -5,7 +5,7 @@ gitName = "TB3417"
 
 branch = "master"
 
-origin = "https://github.com/elit30/" + str(gitName) +".git"
+origin = "https://github.com/atharva-vyas/" + str(gitName) +".git"
 
 os.system('git init')
 os.system('git add --all')
